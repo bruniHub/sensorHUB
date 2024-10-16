@@ -16,3 +16,27 @@ We provide two versions of sensorHUB:
 - sensorHUB_PRO: a HTTPS-based version for more operational uses with domain-based routes (https://github.com/HEFLoRa/sensorHUB_PRO)
 
 Both versions, relate to the sensorHUB web application, which is separately provided: https://github.com/HEFLoRa/WEB_APP/
+
+## Authors
+
+David Gackstetter, Parid Varoshi, Syed Saad Zahidi
+
+david.gackstetter@tum.de
+
+
+## License
+
+Copyright (C) 2024 Technical University of Munich, Arcisstr. 11, 80333 Munich, Germany.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
