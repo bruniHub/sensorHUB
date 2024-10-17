@@ -1,4 +1,4 @@
-# sensorHUB
+# sensorHUB - add test
 The sensorHUB stack builds upon existing backend solutions from data management and identity and access management, and puts a new graphical web application into the center of the architecture, aiming to enhance the latest technology stack towards a novel, user-friendly IoT project solution. The sensorHUB’s graphical web application represents a new front-end application for managing IoT projects. Its streamlined navigation ensures simplicity, allowing users to reach their intended destinations in a few clicks. 
 
 The primary features include the management and visualization of IoT data. The app further provides a knowledge section, which includes essential training material on the provided software services. Interfaces to complementary IoT software (here: Node-RED) and optional forwarding of login tokens complement the default functionalities. Aligned with our requirements on interoperability, scalability and open-source, the data-related core of the sensorHUB stack represents a scalable cluster of Docker-containerized FROST-servers. 
